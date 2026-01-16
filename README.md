@@ -5,14 +5,14 @@ Apasionado por el desarrollo Backend, la arquitectura de software y la administr
 
 ---
 
-Mi enfoque principal es el desarrollo Backend, donde diseño y construyo APIs escalables utilizando **Node.js** y **Express**, gestionando datos tanto en **MongoDB** (vía Mongoose) como en **MySQL**. 
+Mi enfoque principal es el desarrollo Backend, donde diseño y construyo APIs escalables utilizando Node.js y Express, gestionando datos tanto en MongoDB (Mongoose) como en MySQL. 
 
-Complemento mi perfil con sólidas habilidades de **SysAdmin**: me siento cómodo en la terminal de **Linux** administrando servidores (Apache, Samba) y contenerizando aplicaciones con **Docker**.
+Complemento mi perfil con sólidas habilidades de SysAdmin: me siento cómodo en la terminal de Linux administrando servidores (Apache, Samba).
 
 Además:
-Llevo soluciones al entorno móvil con **Android (Kotlin)**.
-Diseño sistemas con visión empresarial usando **ArchiMate**.
-Exploro activamente el análisis de datos (**Pandas**) y el **Network Penetration Testing** con **Python**.
+Llevo soluciones al entorno móvil con Android (Kotlin).
+Diseño sistemas con visión empresarial usando ArchiMate.
+Exploro activamente el análisis de datos (Pandas y Matpotlib) 
 
 ---
 
